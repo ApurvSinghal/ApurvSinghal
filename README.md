@@ -6,7 +6,7 @@
 
 - I have 4 years of experience in C# .Net and Xamarin Technologies
 
-- 📫 You can reach me at https://linktr.ee/apurvsinghal
+- 📫 [Connect with me ☁️](https://linktr.ee/apurvsinghal)
 
 
 <!---
