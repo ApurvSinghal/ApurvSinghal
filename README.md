@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @ApurvSinghal
-- 👀 I’m interested in Web and Mobile Develeopment
-- 🌱 I’m currently learning WebAPI
-- 💞️ I’m looking to collaborate on Xamarin, WebAPI
-- 📫 You can reach me at https://www.linkedin.com/in/apurv-singhal-827604120
+- 👋 Hi, I’m [Apurv](https://linktr.ee/apurvsinghal)
+- 
+- 👀 I’m interested in DevOps, Docker, Kubernetes
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on DevOps
+
+- I have 4 years of experience in C# .Net and Xamarin Technologies
+- 
+- 📫 You can reach me at https://linktr.ee/apurvsinghal
+
 
 <!---
 ApurvSinghal/ApurvSinghal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
