@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps
 
-- I have 4 years of experience in C# .Net and Xamarin Technologies
-
 - 📫 [Connect with me ☁️](https://linktr.ee/apurvsinghal)
 
 
