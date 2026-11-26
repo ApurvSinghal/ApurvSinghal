@@ -1,8 +1,10 @@
 # Hi, I'm Apurv 👋
 
-**Lead Consultant, Cloud & Platform Engineering** at Capgemini · Melbourne, Australia
+**AI · Platform Engineering · Azure Cloud & DevOps**
 
-I build and run cloud platforms: Azure, DevOps pipelines, and observability. 8+ years across enterprise clients.
+Lead Consultant at Capgemini · Melbourne, Australia
+
+I build AI-related products and run cloud platforms on Azure, with DevOps pipelines and observability. 8+ years across enterprise clients.
 
 ## 🛠️ Tools I work with
 
