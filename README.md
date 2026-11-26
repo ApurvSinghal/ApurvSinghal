@@ -4,7 +4,7 @@
 
 Lead Consultant at Capgemini · Melbourne, Australia
 
-I build AI-related products and run cloud platforms on Azure, with DevOps pipelines and observability. 8+ years across enterprise clients.
+I build AI products and the cloud platforms they run on: Azure, DevOps pipelines, and observability. 8+ years across enterprise clients.
 
 ## 🛠️ Tools I work with
 
@@ -19,7 +19,9 @@ I build AI-related products and run cloud platforms on Azure, with DevOps pipeli
 
 ## 🚀 What I'm building
 
-- 🛡️ **[ADM Guard](https://admguard.com.au)**: an audit trail for automated decision-making, built for Australian Privacy Act compliance.
+- 🛡️ **[ADM Guard](https://admguard.com.au)**: an audit trail for AI and automated decision-making, built for Australian Privacy Act compliance.
+- 🎬 **AI video editing**: an experiment in editing video with AI.
+- 💬 **AI chatbots**: Next.js chat apps built on LLMs.
 
 ## 📫 Find me
 
